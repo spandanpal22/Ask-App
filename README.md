@@ -8,3 +8,5 @@ expo start<br/>
 This will start the app on your expo client app.<br/>
 <br/>
 I have already made the APK file and it is there in the repository you can download it on your android device and install.
+<br/><br/>
+<a href="https://github.com/spandanpal22/ask-app-backend">Link to the backend of this app</a>
